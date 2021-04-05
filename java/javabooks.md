@@ -1,6 +1,4 @@
-有关java编程的基本好书分享 
----
- java推荐书籍
+有关java编程的基本好书分享
 ----
 
 #### java 
@@ -49,8 +47,5 @@
 **【Django_中文教程.pdf】**
 链接：https://pan.baidu.com/s/1exLgNy-frX-yATrSi1jXTg 
 提取码：g001 
- 
- 如何玩转github？
- ---
  
  
