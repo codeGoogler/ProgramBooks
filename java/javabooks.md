@@ -49,3 +49,30 @@
 提取码：g001 
  
  
+ ### python编程书籍
+ 
+ **【笨办法学.Python.（第三版）(1)】**
+ 链接：https://pan.baidu.com/s/1HBoM7hPNewQiq4Bbrjrpfg 
+ 提取码：g001 
+ 
+ 
+
+ **【Python学习手册(第4版)_完整版本】**
+ 链接：https://pan.baidu.com/s/1VIG-_Ys5WGdo6g23oaIChw 
+ 提取码：g001 
+
+
+ **【Python核心编程(第二版).pdf】**
+ 链接：https://pan.baidu.com/s/1zDyyCSKLUJ_0vCIMfZDDdw 
+ 提取码：g001 
+ 
+ 
+ **【《Python编程：从入门到实践》.pdf】**
+ 链接：https://pan.baidu.com/s/1kv-922jb6VleGiSf_0T5mw 
+ 提取码：g001 
+
+ 
+ **【用python爬虫实战项目全方位讲解.pdf】**
+ 链接：https://pan.baidu.com/s/17tXYF9xo_zn7k3gN3Fz9RQ 
+ 提取码：g001 
+ 
