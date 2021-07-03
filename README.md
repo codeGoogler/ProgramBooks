@@ -224,7 +224,7 @@ java推荐书籍
 ### 最后
 
 公众号
-欢迎关注微信公众号【终端研发部*】，原创技术文章第一时间推出 ，并且获取更多资料和视频
+欢迎关注微信公众号【gitHub掘进】，原创技术文章第一时间推出 ，并且获取更多资料和视频
 
 ![](https://github.com/codeGoogler/ProgramBooks/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%9B%9E%E5%A4%8D%E3%80%90%E7%94%9F%E6%88%90%E5%99%A8%E3%80%91%E5%8D%B3%E5%8F%AF%E8%8E%B7%E5%BE%97%E4%BB%A3%E7%A0%81.png?raw=true)
 
