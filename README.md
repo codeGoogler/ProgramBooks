@@ -112,7 +112,7 @@ java推荐书籍
 链接：https://pan.baidu.com/s/1cOGdK4x1Q2X9MssFDNZOGg
 提取码：uvz9
 
-**【高清电子版-Head First Servlets and JSP中文版第2版.pdf】**
+**【高清电子版-Head First Java中文版第2版.pdf】**
 链接：https://pan.baidu.com/s/1UZpoRFBOmqT8tUr_GOGP5A
 提取码：apra
 
@@ -162,7 +162,6 @@ java推荐书籍
 链接：https://pan.baidu.com/s/1xWEfAsUXy3J5Geq0X_HXcQ
 提取码：w6zx
 
-**【】**
 
 ### PHP
 
