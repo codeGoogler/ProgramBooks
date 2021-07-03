@@ -19,9 +19,11 @@
 有关java编程的基本好书分享
 ---
 java推荐书籍
-**【】**
 ----
 
+**【50个Java项目实战】**
+链接：https://pan.baidu.com/s/1pWP_qh8Shsn6PxF0fkSe-g
+提取码：cyz9
 
 **【实战Java高并发程序设计.pdf】**
 
@@ -159,15 +161,40 @@ java推荐书籍
 链接：https://pan.baidu.com/s/188gLJUa0Wuqnr7TrS1UaIA
 提取码：ylup
 
-链接：https://pan.baidu.com/s/1xWEfAsUXy3J5Geq0X_HXcQ
-提取码：w6zx
+**【C Primer Plus 第6版 中文版.pdf】**
+链接：https://pan.baidu.com/s/1kssjLsjKuNZHU5dyCtgPkg
+提取码：0pg7
 
+**【C Primer Plus(第五版)中文版.pdf】**
+链接：https://pan.baidu.com/s/15SM67KwfE6Pyz-DiCvPo4g
+提取码：ij3r
+
+**【c-primer.pdf】**
+链接：https://pan.baidu.com/s/10219-c1eWogCF5Zj56lfEQ
+提取码：54fj
+
+**【C++PrimerPlus中文版第6版.pdf】**
+链接：https://pan.baidu.com/s/10219-c1eWogCF5Zj56lfEQ
+提取码：54fj
+
+### UNIX 
+
+**【UNIX从入门到精通.pdf】**
+链接：https://pan.baidu.com/s/17gk4dttcGR5LLawl9xSqPA
+提取码：pesp
 
 ### PHP
 
  **【学通PHP的24堂课.pdf】**
 链接：https://pan.baidu.com/s/1Ljmx_mx7-CwCdoVdpbNu3w
 提取码：9u4y
+
+### android相关
+
+**【史上最强NDK入门项目实战.rar】**
+
+链接：https://pan.baidu.com/s/1kcvdlPJyQijwXUwHmkTAZQ
+提取码：y4n0
 
 ### web攻防技术学习
 
