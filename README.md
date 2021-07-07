@@ -177,6 +177,11 @@ java推荐书籍
 链接：https://pan.baidu.com/s/10219-c1eWogCF5Zj56lfEQ
 提取码：54fj
 
+
+
+
+
+
 ### UNIX 
 
 **【UNIX从入门到精通.pdf】**
@@ -240,8 +245,33 @@ java推荐书籍
 链接：https://pan.baidu.com/s/1JSiBAr5hTFj8kr_452CFTQ
 提取码：d2i5
 
+### 深度学习
 
 
+**【《深度学习推荐系统》PDF+王喆.pdf】**
+
+链接：https://pan.baidu.com/s/1Gg48eJxVp7rcZ5fCKaTnGQ
+提取码：jpxk
+
+**【推荐系统遇上深度学习系列.pdf】**
+
+链接：https://pan.baidu.com/s/1Afx4og1oMTt6YE43H4pBgw
+提取码：jcqx
+
+**【推荐论文精选.pdf】**
+链接：https://pan.baidu.com/s/1UenupdYebZ_SGM-kp67Tsw
+提取码：nkrl
+
+**【推荐系统手册.pdf】**
+链接：https://pan.baidu.com/s/17zHMCHpD7AXJjC5J49E-7Q
+提取码：ndog
+
+### linux 
+
+**【《Linux就该这么学》正式版电子书.pdf】**
+
+链接：https://pan.baidu.com/s/1qT74brptVm0OS47m__hPVA
+提取码：8efe
 
 如何玩转github？
 ---
@@ -257,3 +287,16 @@ java推荐书籍
 
 
 持续更新中...
+
+
+
+
+
+
+
+
+
+
+
+
+
