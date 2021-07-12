@@ -94,11 +94,17 @@ java推荐书籍
 链接：https://pan.baidu.com/s/1zpZ3NBJyvclBXIWUo9gJeQ
 提取码：c449
 
+**【Kubernetes权威指南（纪念版）.pdf】**
 
+链接：https://pan.baidu.com/s/1GNF9DCA_39o0IGScFWD7Qw
+提取码：iwom
 
 [大家网]Java2核心技术第l卷.基础知识7th.pdf
 链接：https://pan.baidu.com/s/1I5DMh6ldzATFmFtP2e5YgA
 提取码：0c3l
+
+
+
 
 ### 黑客相关
 
