@@ -279,6 +279,11 @@ java推荐书籍
 链接：https://pan.baidu.com/s/1qT74brptVm0OS47m__hPVA
 提取码：8efe
 
+**【Linux命令行与shell脚本编程大全.第3版】**
+
+链接：https://pan.baidu.com/s/1PRhxUHdOPrtfuaWrOSBqPg
+提取码：wjnm
+
 ### 微信小程序源码
 
 **【微客公寓出租房 v1.0.13+小程序端】**
